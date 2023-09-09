@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: block;
+}
+
+.homepage {
+  width: 1920px;
+  height: 700px;
+  flex-shrink: 0;
+  background: #fff;
+}
+
+.brand {
+  width: 1920px;
+  height: 243px;
+  flex-shrink: 0;
+  background: #fff;
+}
+
+.header {
+  margin: 40px 375px 84px 375px;
+  display: flex;
+  color: #000;
+  font-family: Gilroy-Bold;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.logo {
+  width: 35px;
+  height: 40px;
+  flex-shrink: 0;
+}
+
+.company_name {
+  margin: 0 500px 0 10px;
+  color: #000;
+  font-family: Gilroy-Bold;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.menu {
+  display: flex;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.menu_item {
+  padding: 20px;
+}
+
+.main_content {
+  margin: 164px 40.94px 162px 373px;
+}
+
+.main_title {
+  color: #000;
+  font-family: Gilroy-Bold;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-bottom: 17px;
+}
+
+.content_text {
+  color: #888;
+  font-family: Gilroy-Medium;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-bottom: 37px;
+}
+
+.start {
+  width: 140px;
+  height: 50px;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background: #f25822;
+  box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.2);
+  margin-right: 72px;
+}
+
+.video {
+  color: #aaa;
+  font-family: Gilroy-Bold;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border: 0;
+}
+
+.image {
+  margin: 164px 375.27px 163.1px 0;
+}
+
+.brand {
+  margin: 97px 375px 96px 345px;
+  width: 160px;
+  height: 50px;
+  display: flex;
+  flex-shrink: 0;
+}
+
+.brand_logo {
+  width: 160px;
+  height: 50px;
+  display: flex;
+  flex-shrink: 0;
+  margin: 24px;
+}
