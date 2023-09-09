@@ -51,11 +51,14 @@ body {
 .menu {
   display: flex;
   list-style-type: none;
-  text-decoration: none;
 }
 
 .menu_item {
   padding: 20px;
+}
+
+a {
+  text-decoration: none;
 }
 
 .main_content {
